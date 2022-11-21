@@ -208,5 +208,4 @@ if __name__ == "__main__":
                     if next_calculation == "no":
                         break
                     else:
-                        print("Invalid Input")
-
+                        print("Invalid syntax")
